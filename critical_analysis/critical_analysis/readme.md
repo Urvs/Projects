@@ -1,5 +1,3 @@
-葡萄酒质量评估数据集
-
 ## AIM
 
 This dataset was downloaded from the UCI machine learning repository to predict wine quality based on some physical properties.
